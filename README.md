@@ -1,4 +1,4 @@
-# Team Name : Space Cipher
+# Team: Space Cipher
 
 ## Titles
 - [Challenge](#Challenge--PACE-IN-THE-CLASSROOM)
