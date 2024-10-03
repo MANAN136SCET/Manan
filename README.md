@@ -1,13 +1,16 @@
-https://github.com/MANAN136SCET/Manan/blob/main/README.md#name
-
 # Team space cipher
 
-## team space cipher
-hello
+## Titles
+- [Introduction](#Introduction)
+- [Challenge](#Challange)
 
-#Introduction
-## Name
--manan
--ronit
--dhariya
--devanshu
+## Introduction
+- manan
+- ronit
+- dhariya
+- devanshu
+- jit
+- jainex
+
+## Challange
+- Pace in the classroom
