@@ -30,11 +30,11 @@ Our project aims to bridge this gap by developing kid-friendly, engaging materia
 
 ## Tools We Use
 ### Technical Resources:
-- frontend: React, vite
+- Frontend: React, Vite
 - Backend: Node.js
 - Visulization Tool: Three.js
 - Database/Cload Storage: MongoDB Atlas
-- Other tools:
+- Other tools: 
 
 ### Links & Resources:
 - Data/Files: https://oceandata.sci.gsfc.nasa.gov/api/file_search/
