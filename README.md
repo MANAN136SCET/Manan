@@ -1,12 +1,13 @@
 # Team Name : Space Cipher
 
 ## Titles
-- [Challenge](#Challange:-PACE-IN-THE-CLASSROOM)
+- [Challenge](#Challange)
 - [Challenge Overview](#Challenge-Overview)
 - [Team Introdution](#Team)
 - [Tools](#Tools-We-Use)
 
-## Challenge: PACE IN THE CLASSROOM
+## Challenge
+### Challenge Name: PACE IN THE CLASSROOM
 We are working on the Pace in the Classroom challenge, which focuses on making complex data from NASA’s PACE satellite accessible and engaging for students worldwide. Our goal is to create digestible educational materials that help integrate this data into classroom curriculums, improving ocean literacy globally.
 
 ## Challenge Overview
