@@ -1,7 +1,7 @@
 # Team Name : Space Cipher
 
 ## Titles
-- [Challenge](#Challange)
+- [Challenge](#Challenge)
 - [Challenge Overview](#Challenge-Overview)
 - [Team Introdution](#Team)
 - [Tools](#Tools-We-Use)
