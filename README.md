@@ -20,7 +20,7 @@ Our project aims to bridge this gap by developing kid-friendly, engaging materia
 - Ronit Rathod
 - Dhariya Prajapati
 - Manan Tarsariya
-- Jit Prajapti
+- Jit Prajapati
 - Jainex Pumbhadiya
 
 ### Mentors:
