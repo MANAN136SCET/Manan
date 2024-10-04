@@ -22,7 +22,7 @@
 
 ### Mentors :
 
-- **Mr.Nishant Painter** - CEO & Founder at Shivantra
+- **Mr. Nishant Painter** - CEO & Founder at Shivantra
 - **Prof.(Dr.) Bintu Kadhiwala** - Professor at SCET
 
 ### Special Thanks
