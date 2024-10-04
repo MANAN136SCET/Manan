@@ -27,7 +27,7 @@
 
 ### Special Thanks
 
-- Special Thanks to **Prof. Dhatri Pandya - Assistant Professor at SCET** for guidance.
+- Special Thanks to **Prof. Dhatri Pandya** for guidance - Assistant Professor at SCET
 - Thanks to **NASA** for providing access to the PACE satellite data, enabling this project.
 
 
@@ -55,6 +55,9 @@ Our project aims to bridge this gap by developing kid-friendly, engaging materia
 
 ## Project Demo
 
+### Interactions with Earth -
+  ![Untitled design](https://github.com/user-attachments/assets/fb4b63e1-a174-44f6-b481-17ecec4a8e21)
+
 
 
 ## Installation & Set up
@@ -66,7 +69,7 @@ Our project aims to bridge this gap by developing kid-friendly, engaging materia
    - cd 
 
 3. **Install dependace :**
-   - npm install
+   - npm install 
 
 4. **Start the development server :**
    - npm run dev
