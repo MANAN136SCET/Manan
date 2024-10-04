@@ -1,4 +1,5 @@
 # Team: Space Cipher
+We are group of 2nd Year Unfergraduate student at SCET
 
 ## Contents:
 
@@ -59,9 +60,28 @@ Our project aims to bridge this gap by developing kid-friendly, engaging materia
 
 ## Project Demo
 
-### Interactions with Earth
+### Home page
 
-![Untitled design](https://github.com/user-attachments/assets/fb4b63e1-a174-44f6-b481-17ecec4a8e21)
+Interactions with Earth globe.
+
+![Untitled design (1)](https://github.com/user-attachments/assets/464548d7-2bc2-43bd-bd48-6379287c640a)
+
+### Explore page
+
+Learn more about Ocean Colour Intrument, SPEXone Polarimeter, HARP2 Polarimeter.
+
+![Explore page](https://github.com/user-attachments/assets/ece07c5d-2297-4804-bc16-1c2781376521)
+
+### Lesson page
+
+Learn about PACE
+
+![_page](https://github.com/user-attachments/assets/013dc89b-c136-4fb2-b974-c47e665dc2d9)
+
+![_page (1)](https://github.com/user-attachments/assets/9f57b1b0-2fac-4f1f-a029-61beb3c14d3b)
+
+![_page (2)](https://github.com/user-attachments/assets/fdf5a4ba-baf9-4a54-a36b-6234eb354d10)
+
 
 ---
 
