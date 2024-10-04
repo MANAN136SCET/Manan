@@ -10,7 +10,7 @@
 - [Project Demo](#Project-Demo)
 
 ## Team
-### Members:
+### Members :
 - Devanshu Mangal
 - Ronit Rathod
 - Dhairya Prajapati
@@ -18,7 +18,7 @@
 - Jit Prajapati
 - Jainex Pumbhadiya
 
-### Mentors:
+### Mentors :
 - Nishant Painter
 - Dhatri Pandya
 - Bintu Kadhiwala 
@@ -32,14 +32,14 @@ The Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite launched on Febru
 Our project aims to bridge this gap by developing kid-friendly, engaging materials that teachers can use across various grade levels. We’re focusing on turning PACE’s scientific data, gathered from instruments like the Ocean Color Instrument (OCI), SPEXone polarimeter, and Hyper-Angular Rainbow Polarimeter #2 (HARP2), into resources that spark curiosity and foster ocean literacy. These materials will showcase the importance of phytoplankton, ocean-atmosphere exchanges, aerosols, and more, making complex topics accessible to young learners.
 
 ## Tools We Use
-### Technical Resources:
+### Technical Resources :
 - Frontend - React, Vite
 - Backend - Node.js
 - Visulization Tool - Three.js
 - Database/Cload Storage - MongoDB Atlas
 - Other tools - 
 
-### Links & Resources:
+### Links & Resources :
 - Data/Files - https://oceandata.sci.gsfc.nasa.gov/api/file_search/
 - React, Vite Tutorials -
 - Three.js Tutorials -
