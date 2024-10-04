@@ -36,11 +36,11 @@ Our project aims to bridge this gap by developing kid-friendly, engaging materia
 - Frontend - React, Vite
 - Backend - Node.js
 - Visulization Tool - Three.js
-- Database/Cload Storage - MongoDB Atlas
+- Database / Cload Storage - MongoDB Atlas
 - Other tools - 
 
 ### Links & Resources :
-- Data/Files - https://oceandata.sci.gsfc.nasa.gov/api/file_search/
+- Data / Files - https://oceandata.sci.gsfc.nasa.gov/api/file_search/
 - React, Vite Tutorials -
 - Three.js Tutorials -
 
