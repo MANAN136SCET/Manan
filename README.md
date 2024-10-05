@@ -1,6 +1,6 @@
-# Team: Space Cipher
+<h1 align="center"><strong>Team: Space Cipher</strong></h1>
 
-We are group of 2nd Year Unfergraduate student at SCET
+---
 
 ## Contents:
 
@@ -17,6 +17,8 @@ We are group of 2nd Year Unfergraduate student at SCET
   - [Lesson Page](#lesson-page)
 - [Installation & Set up](#installation--setup)
 
+---
+
 ## Team
 
 ### Members:
@@ -28,14 +30,16 @@ We are group of 2nd Year Unfergraduate student at SCET
 - Jit Prajapati
 - Jainex Pumbhadiya
 
+(We are group of 2nd Year Undergraduate student at SCET)
+
 ### Mentors:
 
-- **Mr. Nishant Painter** - CEO & Founder at Shivantra
-- **Prof. (Dr.) Bintu Kadhiwala** - Professor at SCET
+- **Mr. Nishant Painter** - CEO & Founder at Shivantra.
+- **Prof. (Dr.) Bintu Kadhiwala** - Professor at SCET.
 
 ### Special Thanks:
 
-- Special thanks to **Prof. Dhatri Pandya** for her guidance - Assistant Professor at SCET
+- Special thanks to **Prof. Dhatri Pandya** for her guidance - Assistant Professor at SCET.
 - Thanks to **NASA** for providing access to the PACE satellite data, enabling this project.
 
 ---
@@ -67,25 +71,25 @@ Our project aims to bridge this gap by developing kid-friendly, engaging materia
 
 ### Home page
 
-Interactions with Earth globe.
+- Interactions with Earth globe.
 
-![Untitled design (1)](https://github.com/user-attachments/assets/464548d7-2bc2-43bd-bd48-6379287c640a)
+  ![Untitled design (1)](https://github.com/user-attachments/assets/464548d7-2bc2-43bd-bd48-6379287c640a)
 
 ### Explore page
 
-Learn more about Ocean Colour Intrument, SPEXone Polarimeter, HARP2 Polarimeter.
+- Learn more about Ocean Colour Intrument, SPEXone Polarimeter, HARP2 Polarimeter.
 
-![Explore page](https://github.com/user-attachments/assets/ece07c5d-2297-4804-bc16-1c2781376521)
+  ![Explore page](https://github.com/user-attachments/assets/ece07c5d-2297-4804-bc16-1c2781376521)
 
 ### Lesson page
 
-Learn about PACE
+- Learn about PACE.
 
-![_page](https://github.com/user-attachments/assets/013dc89b-c136-4fb2-b974-c47e665dc2d9)
+  ![_page](https://github.com/user-attachments/assets/013dc89b-c136-4fb2-b974-c47e665dc2d9)
 
-![_page (1)](https://github.com/user-attachments/assets/9f57b1b0-2fac-4f1f-a029-61beb3c14d3b)
+  ![_page (1)](https://github.com/user-attachments/assets/9f57b1b0-2fac-4f1f-a029-61beb3c14d3b)
 
-![_page (2)](https://github.com/user-attachments/assets/fdf5a4ba-baf9-4a54-a36b-6234eb354d10)
+  ![_page (2)](https://github.com/user-attachments/assets/fdf5a4ba-baf9-4a54-a36b-6234eb354d10)
 
 
 ---
