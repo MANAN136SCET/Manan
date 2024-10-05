@@ -69,19 +69,19 @@ Our project aims to bridge this gap by developing kid-friendly, engaging materia
 
 ## Project Demo
 
-### Home page
+### Home page:
 
 - Interactions with Earth globe.
 
   ![Untitled design (1)](https://github.com/user-attachments/assets/464548d7-2bc2-43bd-bd48-6379287c640a)
 
-### Explore page
+### Explore page:
 
 - Learn more about Ocean Colour Intrument, SPEXone Polarimeter, HARP2 Polarimeter.
 
   ![Explore page](https://github.com/user-attachments/assets/ece07c5d-2297-4804-bc16-1c2781376521)
 
-### Lesson page
+### Lesson page:
 
 - Learn about PACE.
 
