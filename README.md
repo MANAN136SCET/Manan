@@ -5,11 +5,14 @@ We are group of 2nd Year Unfergraduate student at SCET
 
 - [Team](#team)
   - [Members](#members)
-  - [Our Mentors](#mentors)
+  - [Mentors](#mentors)
   - [Special Thanks](#special-thanks)
 - [Challenge](#challenge-pace-in-the-classroom)
   - [Challenge Overview](#challenge-overview)
 - [Tools We Use](#tools-we-use)
+  - [Home Page](#home-page)
+  - [Explore Page](#explore-page)
+  - [Lesson Page](#lesson-page)
 - [Installation & Set up](#installation--setup)
 
 ## Team
