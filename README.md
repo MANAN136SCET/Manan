@@ -10,6 +10,7 @@ We are group of 2nd Year Unfergraduate student at SCET
 - [Challenge](#challenge-pace-in-the-classroom)
   - [Challenge Overview](#challenge-overview)
 - [Tools We Use](#tools-we-use)
+- [Project Demo](#project-demo)
   - [Home Page](#home-page)
   - [Explore Page](#explore-page)
   - [Lesson Page](#lesson-page)
