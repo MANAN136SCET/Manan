@@ -1,6 +1,4 @@
-<p align="center">
-  <span style="font-size: 48px;"><strong>Team: Space Cipher</strong></span>
-</p>
+# Team: Space Cipher
 
 We are group of 2nd Year Unfergraduate student at SCET
 
