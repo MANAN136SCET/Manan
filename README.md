@@ -116,14 +116,14 @@ Learn about PACE
 
    Fronted -
    ```bash
-   npm install vite
+   npm install
    ```
 
 4. **Start development server:**
 
    Backend -
    ```bash
-   npm install vite
+   python .\app.py
    ```
 
    Frontend -
