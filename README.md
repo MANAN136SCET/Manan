@@ -143,7 +143,7 @@ npm run dev
 
 - Interaction with a 3D Earth globe: The Home Page serves as the interactive centerpiece of the project, allowing users to engage with a fully rotatable 3D globe. This immersive feature gives users the ability to explore different parts of the Earth, observe various regions of the ocean and atmosphere, and develop a visual connection to the data. The globe displays real-time environmental information, introducing users to global ecosystems, and providing a contextual understanding of the Earth’s climate systems. This page also sets the stage for deeper learning in subsequent sections.
 
-  ![Home Page (1)](https://github.com/user-attachments/assets/9d1af1c4-691b-4bb6-90ae-9c5aa4c2258a)
+  ![Home](https://github.com/user-attachments/assets/2bea5b05-9d3c-4f30-b107-16a3d6fc80b7)
 
   ![Home Page (3)](https://github.com/user-attachments/assets/f0198700-5575-4e7a-a408-f732bdcc732f)
 
@@ -166,7 +166,7 @@ npm run dev
 
   ![Lesson1 Page (1)](https://github.com/user-attachments/assets/0d70d257-a0cc-4b2f-9afb-d13992c5617a)
 
-  ![Lesson2 Page](https://github.com/user-attachments/assets/26a2a2fd-89b2-4d06-8372-f447db773bc5)
+  ![Lesson3](https://github.com/user-attachments/assets/d249484b-0f0d-4119-9c7b-59f812289e8c)
 
   ![Lesson3 Page](https://github.com/user-attachments/assets/38e20309-395b-4e0c-a4b9-4f68857219a5)
 
