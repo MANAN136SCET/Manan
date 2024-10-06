@@ -20,6 +20,7 @@
   - [Home Page](#home-page)
   - [Explore Page](#explore-page)
   - [Lesson Page](#lesson-page)
+- [Map](#maps)
 
 ---
 
@@ -174,3 +175,16 @@ npm run dev
   ![Lesson2 Page](https://github.com/user-attachments/assets/26a2a2fd-89b2-4d06-8372-f447db773bc5)
 
   ![Lesson3 Page](https://github.com/user-attachments/assets/38e20309-395b-4e0c-a4b9-4f68857219a5)
+
+### Maps:
+
+- 2D Map & 3D Globe which will show the concentration of Chlorophyll, Carbon & Sea Surface temperature.
+
+  ![Map Page](https://github.com/user-attachments/assets/8f760cb1-95e6-472e-9ad5-8d20cc8f4219)
+
+### Community Page:
+
+- You can commit the card and see what other has commited.
+
+  ![Community Page](https://github.com/user-attachments/assets/37bf811c-2685-4c3f-a2c4-873105f5e801)
+
