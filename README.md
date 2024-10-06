@@ -141,7 +141,7 @@ npm run dev
 
 ### Home Page:
 
-- **Interaction with a 3D Earth globe**: The home page provides a dynamic, interactive 3D globe of the Earth, allowing users to rotate, zoom, and explore different regions. This immersive visual introduces users to global perspectives on environmental changes by providing an overview of Earth’s ecosystems and climate.
+- Interaction with a 3D Earth globe: The Home Page serves as the interactive centerpiece of the project, allowing users to engage with a fully rotatable 3D globe. This immersive feature gives users the ability to explore different parts of the Earth, observe various regions of the ocean and atmosphere, and develop a visual connection to the data. The globe displays real-time environmental information, introducing users to global ecosystems, and providing a contextual understanding of the Earth’s climate systems. This page also sets the stage for deeper learning in subsequent sections.
 
   ![Home Page (1)](https://github.com/user-attachments/assets/9d1af1c4-691b-4bb6-90ae-9c5aa4c2258a)
 
@@ -149,14 +149,19 @@ npm run dev
 
 ### Explore Page:
 
-- Learn about PACE’s instruments: The Explore Page dives into the instruments used aboard the PACE satellite, such as the OCI (Ocean Color Instrument), SPEXone polarimeter, and HARP2. Users can interact with visuals and descriptions to learn how each instrument contributes to gathering essential environmental data.
-
+- Learn about PACE’s instruments: On the Explore Page, users can delve into the science behind the instruments aboard NASA's PACE satellite. Detailed explanations of the Ocean Color Instrument (OCI), SPEXone polarimeter, and HARP2 polarimeter are paired with interactive visuals. This page is designed to make complex satellite instruments more approachable, explaining how they collect crucial data on ocean color, aerosol properties, and atmospheric particles. Each instrument plays a key role in monitoring Earth's climate, and this page provides a digestible, student-friendly introduction to their functions.
+  - Interactive instrument learning: By clicking on the icons or images of the instruments, users are presented with animated descriptions, showing how each one operates in space and collects data. This hands-on experience helps users, particularly students, visualize what these sophisticated devices do in the context of Earth sciences.
+    
   ![Explore Page](https://github.com/user-attachments/assets/df82cf2d-3585-43a4-8401-f6d79e24b797)
 
 ### Lessons Page:
 
-- Explore lessons on PACE and Earth systems: The Lessons Page provides a structured learning experience. It offers interactive, kid-friendly lessons covering topics like PACE's mission, its instruments, and how they help us understand the ocean-atmosphere relationship. This page is designed for teachers to introduce ocean literacy in an engaging way for students of all levels.
+- Explore lessons on PACE and Earth systems: The Lessons Page is a cornerstone of the educational aspect of this project. It offers structured, interactive lessons for students of various age groups. These lessons cover topics like the science behind PACE’s mission, how its instruments work, and the importance of studying Earth’s oceans and atmosphere. By engaging students with visual explanations, videos, and quizzes, this page encourages active learning and makes complex scientific concepts more accessible.
   
+  - Learning modules: Each lesson module is carefully crafted to provide a mix of theory and interactive activities. Students can explore how phytoplankton impacts ocean health, or how aerosols affect the atmosphere, by interacting with on-screen simulations and images. This makes it easier to understand how the data PACE gathers translates into real-world impacts on the environment.
+    
+  - Self-paced quizzes: After each lesson, students are encouraged to take quizzes to test their understanding. This reinforces learning and makes it more engaging for young minds.
+
   ![Lessons Page](https://github.com/user-attachments/assets/990a2d3b-73f8-48c3-82e3-f404717aa329)
 
   ![Lesson1 Page (1)](https://github.com/user-attachments/assets/0d70d257-a0cc-4b2f-9afb-d13992c5617a)
@@ -167,13 +172,21 @@ npm run dev
 
 ### Maps Page:
 
-- Visualize global data on Chlorophyll, Carbon, and Sea Surface Temperature: The Maps Page allows users to view global data from NASA’s PACE satellite in 2D and 3D. By visualizing Chlorophyll concentrations, Carbon levels, and Sea Surface Temperature, this page helps students and educators understand the changing state of our planet's oceans and the importance of these measurements for climate research.
+- Visualize global data on Chlorophyll, Carbon, and Sea Surface Temperature: The Maps Page provides a powerful tool for students and educators to visualize and analyze real-world data captured by the PACE satellite. It features interactive 2D and 3D maps that display critical environmental metrics such as Chlorophyll concentrations (which indicate phytoplankton levels in the ocean), Carbon concentrations, and Sea Surface Temperature (SST). By allowing users to manipulate the maps and view global trends, this page brings abstract data to life, helping learners understand the impact of these elements on Earth’s ecosystems.
 
+  - 2D and 3D mapping tools: The inclusion of both 2D and 3D mapping options provides versatility, enabling users to switch between different visual perspectives. The interactive features allow users to zoom in on specific regions of interest, view historical data trends, and analyze patterns in ocean health and climate change.
+ 
+  - Understanding environmental data: Through visualizations of Chlorophyll and Carbon levels, users can learn about the health of the ocean and how it affects the global carbon cycle. The real-time temperature data also educates users about the changing climate and its effects on marine life.
+  
   ![Map Page](https://github.com/user-attachments/assets/8f760cb1-95e6-472e-9ad5-8d20cc8f4219)
 
 ### Community Page:
 
-- Collaborative learning and idea sharing: The Community Page encourages users to share their projects, ideas, and contributions with other learners. It fosters a collaborative space where students and educators can engage with each other, discuss their learning experiences, and discover creative ways to use PACE data in the classroom.
+- Collaborative learning and idea sharing: The Community Page is designed to foster interaction between learners, educators, and contributors from around the world. It encourages the sharing of ideas, feedback, and projects based on the PACE data and learning materials. Users can upload their own projects, post questions, and engage in discussions with others working on similar topics, creating a sense of community and collaborative learning.
+
+  - Project showcase: Teachers and students can showcase their classroom projects related to PACE data, such as their own analyses of oceanic changes or their creative representations of satellite data. This allows for the exchange of ideas and inspiration among peers.
+ 
+  - Global participation: The Community Page encourages participation from different parts of the world, making it a global platform for sharing knowledge about ocean literacy and environmental science.
 
   ![Community Page](https://github.com/user-attachments/assets/37bf811c-2685-4c3f-a2c4-873105f5e801)
 
