@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 100px; font-family: 'Arial';"><strong> Team: Space Cipher </strong></h1>
+<h1 align="center" style="font-size: 100px; font-family: 'Arial';"><strong> Team: Space Ciphers </strong></h1>
 
 ---
 
@@ -9,10 +9,10 @@
   - [Challenge Overview](#challenge-overview)
   - [Summary](#summary)
 - [Impact](#impact)
-- [Challenge Faced & Solutions](#challenge-faced--solutions)
+- [Challenge Faced and Solutions](#challenge-faced-and-solutions)
 - [Tools We Use](#tools-we-use)
 - [Features](#features)
-- [Installation & Setup](#installation--setup)
+- [Installation and Setup](#installation-and-setup)
 - [Application](#application)
   - [Home Page](#home-page)
   - [Explore Page](#explore-page)
@@ -60,7 +60,7 @@ With our interactive, easy-to-use tools, we aim to:
 
 ---
 
-## Challenge Faced & Solutions
+## Challenge Faced and Solutions
 
 - **Challenge**: Making NASA’s complex PACE data accessible for younger audiences.
   - **Solution**: Simplified visualizations and tailored lesson materials to make the data engaging.
@@ -78,7 +78,7 @@ With our interactive, easy-to-use tools, we aim to:
 
 ## Tools We Use
 
-- **Frontend**: React, Vite, Three.js, Node.js
+- **Frontend**: React + Vite, Three.js, Node.js
 - **Backend**: Python-Flask
 - **Database/Cloud Storage**: MongoDB Atlas
 - **Data Source**: [PACE Ocean Data API](https://oceandata.sci.gsfc.nasa.gov/api/file_search/)
@@ -99,7 +99,7 @@ With our interactive, easy-to-use tools, we aim to:
 
 ---
 
-## Installation & Setup
+## Installation and Setup
 
 - *Clone the Repository:* 
 
@@ -167,7 +167,7 @@ npm run dev
 
 ### Maps Page:
 
-- 2D Map & 3D Globe showing **Chlorophyll**, **Carbon** concentrations, and **Sea Surface Temperature**.
+- 2D Map and 3D Globe showing **Chlorophyll**, **Carbon** concentrations, and **Sea Surface Temperature**.
 
   ![Map Page](https://github.com/user-attachments/assets/8f760cb1-95e6-472e-9ad5-8d20cc8f4219)
 
@@ -184,21 +184,21 @@ npm run dev
 
 ### Members:
 
-- **Devanshu Mangal** - Frontend & Backend
-- **Ronit Rathod** - Backend, Database, Video Editor
+- **Devanshu Mangal** - Frontend and Backend
+- **Ronit Rathod** - Backend, Database and Video Editor
 - **Dhairya Prajapati** - Frontend
-- **Manan Tarsariya** - Backend, Literature Survey
+- **Manan Tarsariya** - Backend and Literature Survey
 - **Jit Prajapati** - Website Deployment
 - **Jainex Pumbhadiya** - Website Deployment
 
 ### Mentors:
 
-- **Mr. Nishant Painter** - CEO & Founder, Shivantra.
-- **Prof. (Dr.) Bintu Kadhiwala** - Assistant Professor, Computer Department, SCET.
+- **Mr. Nishant Painter** - CEO and Founder, Shivantra.
+- **Prof. (Dr.) Bintu Kadhiwala** - Assistant Professor, Computer Engineering Department, SCET, Surat.
 
 ### Special Thanks:
 
-- Special thanks to **Prof. Dhatri Pandya** for her guidance. - Assistant Professor, Computer Department, SCET
+- Special thanks to **Prof. Dhatri Pandya** (Assistant Professor, Computer Engineering Department, SCET, Surat) for her guidance. 
 - Thanks to **NASA** for access to PACE satellite data.
 
 ---
