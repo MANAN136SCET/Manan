@@ -20,8 +20,8 @@
   - [Home Page](#home-page)
   - [Explore Page](#explore-page)
   - [Lesson Page](#lesson-page)
-- [Map](#maps)
-- [Community Page](#community-page)
+  - [Map](#maps)
+  - [Community Page](#community-page)
 
 ---
 
