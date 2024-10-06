@@ -185,8 +185,6 @@ npm run dev
 ### Community Page:
 
 - Collaborative learning and idea sharing: The Community Page is designed to foster interaction between learners, educators, and contributors from around the world. It encourages the sharing of ideas, feedback, and projects based on the PACE data and learning materials. Users can upload their own projects, post questions, and engage in discussions with others working on similar topics, creating a sense of community and collaborative learning.
-
-  - Project showcase: Teachers and students can showcase their classroom projects related to PACE data, such as their own analyses of oceanic changes or their creative representations of satellite data. This allows for the exchange of ideas and inspiration among peers.
  
   - Global participation: The Community Page encourages participation from different parts of the world, making it a global platform for sharing knowledge about ocean literacy and environmental science.
 
