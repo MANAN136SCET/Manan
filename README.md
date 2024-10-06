@@ -21,6 +21,7 @@
   - [Explore Page](#explore-page)
   - [Lesson Page](#lesson-page)
 - [Map](#maps)
+- [Community Page](#community-page)
 
 ---
 
@@ -169,6 +170,8 @@ npm run dev
 ### Lesson page:
 
 - Learn about PACE, Pace's Scientific Instrument, The Ocean-Atmosphere Intraction with simulation.
+
+  ![Lessons Page](https://github.com/user-attachments/assets/990a2d3b-73f8-48c3-82e3-f404717aa329)
 
   ![Lesson1 Page (1)](https://github.com/user-attachments/assets/0d70d257-a0cc-4b2f-9afb-d13992c5617a)
 
