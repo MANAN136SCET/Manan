@@ -172,13 +172,13 @@ npm run dev
 
 ### Maps Page:
 
-- Visualize global data on Chlorophyll, Carbon, and Sea Surface Temperature: The Maps Page offers two distinct visualization tools to help users understand critical environmental data gathered by NASA's PACE satellite. It includes an interactive 3D Earth globe for spatial exploration and Graph Visualization for detailed, region-specific data analysis.
+- Visualize global data on Chlorophyll, Carbon, and Sea Surface Temperature: The Maps Page offers two distinct visualization tools to help users understand critical environmental data gathered by NASA's PACE satellite. It includes an interactive 3D Earth globe for spatial exploration and Graph Visualization for detailed temporal data analysis.
 
   - 3D Earth Globe: Users can interact with a fully rotatable 3D globe that displays real-time data for Chlorophyll concentrations, Carbon levels, and Sea Surface Temperature (SST). The 3D view allows users to explore global patterns and observe how ocean and atmospheric conditions vary across different regions of the planet. This visualization helps students and teachers connect large-scale environmental processes with specific geographic locations.
     
-  - Graph Visualization: In addition to the 3D globe, the Maps Page also features a Graph Visualization tool that allows users to plot specific environmental data over time for selected regions. Users can select a region on the globe, and the corresponding graph will display key metrics such as Chlorophyll and Carbon concentrations, showing trends and variations over time. This feature makes it easier to understand how these factors change seasonally or in response to environmental events.
+  - Graph Visualization: In addition to the 3D globe, the Maps Page also features a Graph Visualization tool that plots the mean values of environmental data, such as Chlorophyll and Carbon concentrations and Sea Surface temperature, over a 30-day period. The graphs display key trends and fluctuations in these metrics, helping users understand how environmental factors change over time. This feature allows students and educators to analyze temporal trends in ocean and atmospheric data.
 
-  - Data insights: The combination of the 3D globe and Graph Visualization offers users a comprehensive understanding of how PACE data translates into real-world impacts. While the globe provides a macro-level view of Earth's climate and ecosystems, the graphs give a more detailed, analytical perspective, enabling deeper insights into specific data points.
+  - Data insights: The combination of the 3D Earth globe and Graph Visualization offers users a comprehensive understanding of how PACE data translates into real-world impacts. While the 3D globe provides a global overview of Earth's climate and ecosystems, the graphs give a time-based perspective, enabling deeper insights into trends and variations over monthly periods.
     
   ![Map Page](https://github.com/user-attachments/assets/8f760cb1-95e6-472e-9ad5-8d20cc8f4219)
 
