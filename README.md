@@ -184,12 +184,14 @@ npm run dev
 
 ### Members:
 
-- **Devanshu Mangal** - Frontend and Backend
-- **Ronit Rathod** - Backend, Database and Video Editor
-- **Dhairya Prajapati** - Frontend
-- **Manan Tarsariya** - Backend and Literature Survey
-- **Jit Prajapati** - Website Deployment
-- **Jainex Pumbhadiya** - Website Deployment
+- **Devanshu Mangal** - Frontend and Backend.
+- **Ronit Rathod** - Backend, Database and Video Editor.
+- **Dhairya Prajapati** - Frontend.
+- **Manan Tarsariya** - Backend and Literature Survey.
+- **Jit Prajapati** - Website Deployment.
+- **Jainex Pumbhadiya** - Website Deployment.
+
+We are student of 2nd Year, Computer Engineering Department, SCET, Surat.
 
 ### Mentors:
 
