@@ -141,7 +141,7 @@ npm run dev
 
 ### Home Page:
 
-- Interaction with a 3D Earth globe.
+- **Interaction with a 3D Earth globe**: The home page provides a dynamic, interactive 3D globe of the Earth, allowing users to rotate, zoom, and explore different regions. This immersive visual introduces users to global perspectives on environmental changes by providing an overview of Earth’s ecosystems and climate.
 
   ![Home Page (1)](https://github.com/user-attachments/assets/9d1af1c4-691b-4bb6-90ae-9c5aa4c2258a)
 
@@ -149,14 +149,14 @@ npm run dev
 
 ### Explore Page:
 
-- Learn about PACE’s instruments like **OCI**, **SPEXone**, and **HARP2**.
+- Learn about PACE’s instruments: The Explore Page dives into the instruments used aboard the PACE satellite, such as the OCI (Ocean Color Instrument), SPEXone polarimeter, and HARP2. Users can interact with visuals and descriptions to learn how each instrument contributes to gathering essential environmental data.
 
   ![Explore Page](https://github.com/user-attachments/assets/df82cf2d-3585-43a4-8401-f6d79e24b797)
 
 ### Lessons Page:
 
-- Explore lessons on PACE, its instruments, and the ocean-atmosphere relationship.
-
+- Explore lessons on PACE and Earth systems: The Lessons Page provides a structured learning experience. It offers interactive, kid-friendly lessons covering topics like PACE's mission, its instruments, and how they help us understand the ocean-atmosphere relationship. This page is designed for teachers to introduce ocean literacy in an engaging way for students of all levels.
+  
   ![Lessons Page](https://github.com/user-attachments/assets/990a2d3b-73f8-48c3-82e3-f404717aa329)
 
   ![Lesson1 Page (1)](https://github.com/user-attachments/assets/0d70d257-a0cc-4b2f-9afb-d13992c5617a)
@@ -167,13 +167,13 @@ npm run dev
 
 ### Maps Page:
 
-- 2D Map and 3D Globe showing **Chlorophyll**, **Carbon** concentrations, and **Sea Surface Temperature**.
+- Visualize global data on Chlorophyll, Carbon, and Sea Surface Temperature: The Maps Page allows users to view global data from NASA’s PACE satellite in 2D and 3D. By visualizing Chlorophyll concentrations, Carbon levels, and Sea Surface Temperature, this page helps students and educators understand the changing state of our planet's oceans and the importance of these measurements for climate research.
 
   ![Map Page](https://github.com/user-attachments/assets/8f760cb1-95e6-472e-9ad5-8d20cc8f4219)
 
 ### Community Page:
 
-- Share your ideas and see what others have contributed.
+- Collaborative learning and idea sharing: The Community Page encourages users to share their projects, ideas, and contributions with other learners. It fosters a collaborative space where students and educators can engage with each other, discuss their learning experiences, and discover creative ways to use PACE data in the classroom.
 
   ![Community Page](https://github.com/user-attachments/assets/37bf811c-2685-4c3f-a2c4-873105f5e801)
 
