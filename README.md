@@ -180,7 +180,9 @@ npm run dev
 
   - Data insights: The combination of the 3D Earth globe and Graph Visualization offers users a comprehensive understanding of how PACE data translates into real-world impacts. While the 3D globe provides a global overview of Earth's climate and ecosystems, the graphs give a time-based perspective, enabling deeper insights into trends and variations over monthly periods.
     
-  ![Map Page](https://github.com/user-attachments/assets/8f760cb1-95e6-472e-9ad5-8d20cc8f4219)
+  ![Globe](https://github.com/user-attachments/assets/febbcfed-cf88-43e0-a88e-5b6e2124a725)
+
+  ![Graph](https://github.com/user-attachments/assets/4b724d43-281e-4fe2-af3b-693e38e98361)
 
 ### Community Page:
 
